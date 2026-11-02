@@ -238,3 +238,5 @@ retailpulse/
 ---
 
 *Data: Olist Brazilian E-Commerce Public Dataset (Kaggle, public). Built as a portfolio piece with SQL and Power BI.*
+#   c u s t o m e r _ r e t e n t i o n  
+ 
